@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nirav Deepak Mehta</h1>
-<h2 align="center"> Technical Project Manager | Certified Scrum Master | Agile Enthusiast | WordPress Expert </h2>
+<h2 align="center"> Technical Project Manager | Certified Scrum Master | WordPress Expert </h2>
 
 <p align="center">
     <strong>Experienced Project and Product Manager</strong> with a 10+ year track record in delivering successful projects for multiple enterprise clients.
